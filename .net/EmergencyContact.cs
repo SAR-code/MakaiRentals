@@ -1,10 +1,12 @@
-﻿using System;
+// SOME CODE MISSING/ALTERED DUE TO PROPRIETARY NATURE
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Sabio.Models.Domain.EmergencyContacts
+namespace [name].Models.Domain.EmergencyContacts
 {
     public class EmergencyContact
     {
