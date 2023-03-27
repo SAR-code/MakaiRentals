@@ -1,16 +1,13 @@
-﻿using Sabio.Data.Providers;
+// SOME CODE MISSING DUE TO PROPRIETARY NATURE
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Sabio.Data;
-using Sabio.Models.Requests.EmergencyContacts;
 using System.Data.SqlClient;
 using System.Data;
 using System.Xml.Linq;
-using Sabio.Models.Domain.EmergencyContacts;
-using Sabio.Services.Interfaces;
+
 
 namespace Sabio.Services.EmergencyContacts
 {
