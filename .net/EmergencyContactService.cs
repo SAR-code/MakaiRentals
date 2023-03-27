@@ -1,4 +1,4 @@
-// SOME CODE MISSING DUE TO PROPRIETARY NATURE
+// SOME CODE MISSING/ALTERED DUE TO PROPRIETARY NATURE
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -9,7 +9,7 @@ using System.Data;
 using System.Xml.Linq;
 
 
-namespace Sabio.Services.EmergencyContacts
+namespace [name].Services.EmergencyContacts
 {
     public class EmergencyContactService : IEmergencyContactService
     {
